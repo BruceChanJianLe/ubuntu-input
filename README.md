@@ -10,7 +10,7 @@ This repository demonstrates setting up any character input for Ubuntu.
 1. Reboot
 1. Add Input to Keyboard:
    Search for `Settings` wiht superuser key.
-   Look for `keyboard` and add `Chinese` as one of the input sources.
+   Look for `keyboard` and add `Chinese` as one of the input sources. (for Chinese please select the `Intelligent Pinyin`)
 
 ## References
 - https://askubuntu.com/questions/1408873/ubuntu-22-04-chinese-simplified-pinyin-input-support
